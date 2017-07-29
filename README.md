@@ -24,6 +24,8 @@ Self-Driving Car Engineer Nanodegree Program
    * On windows, you may need to run: `cmake .. -G "Unix Makefiles" && make`
 4. Run it: `./UnscentedKF
 
+[Link to Simulator output] (https://youtu.be/TyjSAERMwjA)
+
 [image1]: ./images/NIS_Radar.jpg "NIS Radar"
 [image2]: ./images/NIS_Lidar.jpg "NIS Lidar"
 [image3]: ./images/giphy.gif "Simulator output"
